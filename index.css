@@ -1,0 +1,25 @@
+label{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration:underline dashed;
+}
+
+#label1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    text-decoration:line-through;
+}
+.label2{
+    font-style: oblique;
+    text-decoration:overline double;
+}
+
+select[name="select"]{
+    background-color: brown;
+}
+
+input:hover{
+    background-color: blue;
+}
+a:hover{
+    color: blue;
+}
